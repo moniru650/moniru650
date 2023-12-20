@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Detabes**
 
-- 👯 I’m looking to collaborate on **Gulmor E-commers**
+- 👯 I’m looking to collaborate on **Gulmor E-commerce**
 
 - 💬 Ask me about **React**
 
